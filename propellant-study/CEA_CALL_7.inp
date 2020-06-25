@@ -1,0 +1,9 @@
+problem rocket eq
+    p(psi) = 0.21755
+    o/f = 7.6122, 7.7959, 7.9796, 8.1633, 8.3469, 8.5306
+    pip = 102.0408
+reac
+    fuel = C2H5OH(L) t(K) = 298.000 wt% = 100.000
+    ox = H2O2(L) t(K) = 298.000 wt% = 100.000
+outp trans
+end
